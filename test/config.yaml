@@ -1,0 +1,6 @@
+registry:
+        discovery:
+                modules: "http://localhost:8080/modules/v1"
+                login: "not supported"
+                provider: "not supported"
+
